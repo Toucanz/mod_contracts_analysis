@@ -4,9 +4,9 @@
 frequency of tenders over time
 group by contract code type
 word frequency analysis
-Identify ways to categorise types of contracts, e.g. ongoing support, new technology procurement, maintenance etc.
+Identify ways to categorise types of contracts, e.g. ongoing support, new technology procurement, maintenance etc. using word keyword analysis within cpv codes
 Supplier frequency
-Contract spending over time
+Contract spending over time, by category as well
 
 ## Modelling
 Can we predict spending based on time? e.g. logistic regression before and after time point
